@@ -32,6 +32,8 @@
     "联系作者.md",
     "CATALOG.md",
     "CONTENTS.md",
+    "DISCLAIMER.md",
+    "LICENSE",
     "knowledge/competition/competition-ad-certificate-abuse/README.md",
     "knowledge/competition/competition-ad-certificate-abuse/references/ad-certificate-abuse.md",
     "knowledge/competition/competition-agent-cloud/README.md",
@@ -428,5 +430,8 @@
     "SKILL.md",
     "SOURCE-MAP.json",
     "SOURCES.md"
-  ]
+  ],
+  "license": "GPL-3.0-only",
+  "license_notice": "NOTICE.md",
+  "disclaimer": "DISCLAIMER.md"
 }

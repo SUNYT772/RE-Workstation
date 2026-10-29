@@ -17,4 +17,4 @@
 
 ## 许可
 
-CTF 来源的原许可与归属记录见 [NOTICE](NOTICE.md)。
+项目原创部分许可全文见 [LICENSE](LICENSE)。CTF、SRC 与其他第三方来源的原许可、归属及授权范围见 [NOTICE](NOTICE.md)。使用与风险说明见 [免责声明](DISCLAIMER.md)。
