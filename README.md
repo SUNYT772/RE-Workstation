@@ -1,3 +1,11 @@
+## 作者与交流
+
+- **作者 QQ**：2856150283
+- **QQ 通知群**：1106305314
+- **TG 群组**：[https://t.me/ty77252](https://t.me/ty77252)
+- **T链 AI CCMAX/GPT 满血中转站**：[https://bblb.site](https://bblb.site)
+
+
 # 逆向工作站 · RE-Workstation
 
 **让每一次逆向与安全研究，都有方法可查、证据可循、经验可复用。**
